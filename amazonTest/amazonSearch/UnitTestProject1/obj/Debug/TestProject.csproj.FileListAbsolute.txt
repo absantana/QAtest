@@ -1,0 +1,2 @@
+C:\Users\anabe\OneDrive\Ambiente de Trabalho\wex\amazonTest\amazonSearch\UnitTestProject1\obj\Debug\TestProject.csprojAssemblyReference.cache
+C:\Users\anabe\OneDrive\Ambiente de Trabalho\wex\amazonTest\amazonSearch\UnitTestProject1\obj\Debug\TestProject.csproj.CoreCompileInputs.cache

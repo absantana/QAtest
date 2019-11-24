@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\amazonSearch",
+    "\\amazonSearch\\UnitTestProject1",
+    "\\amazonSearch\\UnitTestProject1\\Feature",
+    "\\amazonSearch\\UnitTestProject1\\StepDefinition"
+  ],
+  "SelectedNode": "\\amazonSearch\\UnitTestProject1\\StepDefinition\\AmazonBooksBuySteps.cs",
+  "PreviewInSolutionExplorer": false
+}

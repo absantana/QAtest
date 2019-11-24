@@ -1,0 +1,11 @@
+C:\Users\anabe\OneDrive\Ambiente de Trabalho\wex\tree\bin\Debug\netcoreapp3.0\tree.exe
+C:\Users\anabe\OneDrive\Ambiente de Trabalho\wex\tree\bin\Debug\netcoreapp3.0\tree.deps.json
+C:\Users\anabe\OneDrive\Ambiente de Trabalho\wex\tree\bin\Debug\netcoreapp3.0\tree.runtimeconfig.json
+C:\Users\anabe\OneDrive\Ambiente de Trabalho\wex\tree\bin\Debug\netcoreapp3.0\tree.runtimeconfig.dev.json
+C:\Users\anabe\OneDrive\Ambiente de Trabalho\wex\tree\bin\Debug\netcoreapp3.0\tree.dll
+C:\Users\anabe\OneDrive\Ambiente de Trabalho\wex\tree\bin\Debug\netcoreapp3.0\tree.pdb
+C:\Users\anabe\OneDrive\Ambiente de Trabalho\wex\tree\obj\Debug\netcoreapp3.0\tree.csprojAssemblyReference.cache
+C:\Users\anabe\OneDrive\Ambiente de Trabalho\wex\tree\obj\Debug\netcoreapp3.0\tree.AssemblyInfoInputs.cache
+C:\Users\anabe\OneDrive\Ambiente de Trabalho\wex\tree\obj\Debug\netcoreapp3.0\tree.AssemblyInfo.cs
+C:\Users\anabe\OneDrive\Ambiente de Trabalho\wex\tree\obj\Debug\netcoreapp3.0\tree.dll
+C:\Users\anabe\OneDrive\Ambiente de Trabalho\wex\tree\obj\Debug\netcoreapp3.0\tree.pdb
